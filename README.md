@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeumm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeumm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats) \n
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hellohyeummworld&theme=default)](https://hellohyeummworld.tistory.com/)
