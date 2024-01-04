@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-hyeumm=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/bi-sz/github-readme-stats)
+[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeumm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
