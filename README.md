@@ -6,17 +6,12 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeeum0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hyeumm)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeumm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeumm/github-readme-stats)
- 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?hyeumm=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?hyeumm=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hellohyeummworld&theme=default)](https://hellohyeummworld.tistory.com/)
 </div><br>
