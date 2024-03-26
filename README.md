@@ -17,6 +17,7 @@
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hellohyeummworld&theme=default)](https://hellohyeummworld.tistory.com/)
 </div><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hyeumm=anuraghazra&layout=compact)
 
  
 ## 📞 Contact 📞
