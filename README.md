@@ -11,13 +11,15 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://hellohyeummworld.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?hyeumm=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?hyeumm=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hellohyeummworld&theme=default)](https://hellohyeummworld.tistory.com/)
 </div><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hyeumm=anuraghazra&layout=compact)
 
  
 ## 📞 Contact 📞
