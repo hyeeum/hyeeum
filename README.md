@@ -7,6 +7,11 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeumm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeumm/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeumm&layout=compact)
+
+[![hyeumm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeumm)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <br>
 
 ## 💻 DEV's log 💻
@@ -14,7 +19,6 @@
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hellohyeummworld&theme=default)](https://hellohyeummworld.tistory.com/)
 </div><br>
-
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
