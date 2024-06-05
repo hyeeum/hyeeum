@@ -1,16 +1,14 @@
-<div align="left">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20world%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
-  
+<div align="center">
+
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeeum0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hyeumm)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/hyeumm"/>
+</a>
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeumm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeumm/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeumm&layout=compact)
-
-[![hyeumm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeumm)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <br>
 
@@ -34,11 +32,8 @@
       <br>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-      <br>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-      <br>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
     <br>
 </div><br>
 </div>
