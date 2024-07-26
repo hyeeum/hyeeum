@@ -6,7 +6,7 @@
   <img src="https://render.gitanimals.org/farms/hyeeum"/>
 </a>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeeum&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeeumm/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeeum&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeeum/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeum&layout=compact)
 
