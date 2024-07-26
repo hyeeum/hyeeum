@@ -1,14 +1,14 @@
 <div align="center">
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeeum0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hyeumm)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeeum0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hyeeum)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hyeumm"/>
+  <img src="https://render.gitanimals.org/farms/hyeeum"/>
 </a>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeumm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeumm/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeeum&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeeumm/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeumm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeum&layout=compact)
 
 <br>
 
