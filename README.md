@@ -25,7 +25,7 @@ I am passionate about **mobile application development**.
 -  **LIKELION 12th "Line 4-thon" Excellence Award** (2024)
 -  **SOPT 34th AppJam Grand Prize** (2024)  
 -  **SSWU Software Competition Encouragement Award** (2024)  
--  **UMC Ideathon Excellence Award** (2024)
+-  **UMC 5th Ideathon Excellence Award** (2024)
 -  **SSWU Software Competition Encouragement Award** (2023)  
 <br>
 
