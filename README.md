@@ -12,7 +12,7 @@ I am passionate about **mobile application development**.
 
 
 ## ✨ Experience  
--  **SOPT 34th Android Part MVP** (Sep 2024 ~ Jan 2025)  
+-  **SOPT 35th Android Part MVP** (Sep 2024 ~ Jan 2025)  
 -  **LIKELION 12th Frontend Part** (Mar 2024 ~ Jan 2025)  
 -  **SOPT 34th Android Part** (Mar 2024 ~ Jul 2024)  
 -  **UMC 5th Android Part** (Sep 2023 ~ Feb 2024)  
@@ -22,10 +22,10 @@ I am passionate about **mobile application development**.
 
 ## 🏅 Awards  
 -  **SOPT 35th AppJam Excellence Award - Lead Developer** (2025)  
--  **SOPT 34th AppJam Grand Prize** (2024)  
 -  **LIKELION 12th "Line 4-thon" Excellence Award** (2024)
+-  **SOPT 34th AppJam Grand Prize** (2024)  
+-  **SSWU Software Competition Encouragement Award** (2024)  
 -  **UMC Ideathon Excellence Award** (2024)
--  **SSWU Software Competition Encouragement Award** (2023)  
 -  **SSWU Software Competition Encouragement Award** (2023)  
 <br>
 
